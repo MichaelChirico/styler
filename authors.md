@@ -13,7 +13,7 @@
 ## Citation
 
 Source:
-[`DESCRIPTION`](https://github.com/r-lib/styler/blob/master/DESCRIPTION)
+[`DESCRIPTION`](https://github.com/r-lib/styler/blob/main/DESCRIPTION)
 
 Müller K, Walthert L, Patil I (2026). *styler: Non-Invasive Pretty
 Printing of R Code*. R package version 1.11.0,
