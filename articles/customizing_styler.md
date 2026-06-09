@@ -110,7 +110,7 @@ tidyverse_style()$space$remove_space_after_opening_paren
 #>     pd_flat$spaces[paren_after & (pd_flat$newlines == 0L)] <- 0L
 #>     pd_flat
 #> }
-#> <bytecode: 0x563ef0195888>
+#> <bytecode: 0x557ba184f098>
 #> <environment: namespace:styler>
 ```
 
@@ -281,7 +281,7 @@ styler:::apply_transformers
 #>         outer_indention_refs = NA)
 #>     transformed_absolute_indent
 #> }
-#> <bytecode: 0x563eeb1bc578>
+#> <bytecode: 0x557b9c879af0>
 #> <environment: namespace:styler>
 ```
 
@@ -467,7 +467,7 @@ styler:::remove_line_break_before_round_closing_after_curly
 #>     pd$lag_newlines[round_after_curly] <- 0L
 #>     pd
 #> }
-#> <bytecode: 0x563ef01f0118>
+#> <bytecode: 0x557ba18ad758>
 #> <environment: namespace:styler>
 ```
 
